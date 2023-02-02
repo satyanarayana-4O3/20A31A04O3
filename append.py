@@ -1,0 +1,12 @@
+num=[12,-34,45,67,89,9,-56,87]
+num.append(0)
+print(num)
+print(num.count(5))
+n2=[4,7,8,9,5,2,1,9]
+print(n2.index(5))
+n2.insert(3,100)
+print(n2)
+n2.remove(1)
+print(n2)
+n2.reverse()
+print(n2)
